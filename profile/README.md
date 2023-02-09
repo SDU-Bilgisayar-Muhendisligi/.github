@@ -4,7 +4,7 @@
 * Ders kapsamında geliştirilen projeler Teams kısmında yer alan grupların kod depolarında yer almaktadır.
 * Projeler gerçek iş hayatında kullanılan popüler uygulamaların benzerleri ya da özgün fikirlere dayanan uygulamalardır.
 * Projelerde kullanılacak teknolojilerde sınır yoktur. Öğrenciler fikirlerine en uygun teknolojileri, programlama dillerini kendileri seçmektedirler.
-* Projeler [bu linkte](https://drive.google.com/file/d/1INuZ1N1V9eCu3eSb6kczbUMALfIyXZPN/view?usp=sharing) yer alan puanlandırma şablonuna göre değerlendirilecektir.
+* Projeler [bu linkte](https://drive.google.com/file/d/1INuZ1N1V9eCu3eSb6kczbUMALfIyXZPN/view?usp=sharing) yer alan puanlandırma şablonuna göre hem bireysel hem de takım olarak değerlendirilmektedir.
 
 ## Hedefler
 
