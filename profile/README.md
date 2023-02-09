@@ -1,6 +1,6 @@
 # Yazılım Mühendisliği Dersi
 
-* Ders için proje tabanlı ve problem çözmeye dayalı bir yaklaşım uygulanmaktadır. 
+* Ders için proje ağırlıklı ve problem çözmeye dayalı bir yaklaşım uygulanmaktadır. 
 * Dersin teorik kısımlarında güncel konulara yer verilmektedir.
 * Ders kapsamında geliştirilen projeler Teams kısmında yer alan grupların kod depolarında yer almaktadır.
 * Projeler gerçek iş hayatında kullanılan popüler uygulamaların benzerleri ya da özgün fikirlere dayanan uygulamalardır.
