@@ -2,7 +2,8 @@
 
 * Ders için proje ağırlıklı ve problem çözmeye dayalı bir yaklaşım uygulanmaktadır. 
 * Ders kapsamında geliştirilen projeler Teams kısmında yer alan grupların kod depolarında yer almaktadır.
-* Projeler gerçek iş hayatında kullanılan popüler uygulamaların benzerleri ya da özgün fikirlere dayanan uygulamalar olacaktır.
+* Projeler gerçek iş hayatında kullanılan popüler uygulamaların benzerleri ya da özgün fikirlere dayanan uygulamalardır.
+* Projelerde kullanılacak teknolojilerde sınır yoktur. Öğrenciler fikirlerine en uygun teknolojileri, programlama dillerini kendileri seçmektedirler.
 
 ## Hedefler
 
