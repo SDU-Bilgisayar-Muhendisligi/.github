@@ -9,6 +9,7 @@
 
 ## Hedefler
 
+* Güncel yazılım geliştirme teknolojileri, süreçleri, çeşitli kavramlar, trendler hakkında farkındalık oluşturmak.
 * Öğrencilerin özgeçmişlerine ekleyecekleri, onları iş görüşmelerinde bir adım öne çıkaracak uygulamalar geliştirmelerini sağlamak.
 * Öğrencilerin Github profillerini zenginleştirerek iş görüşmelerine özgüvenli bir şekilde girmelerini sağlamak.
 * İş dünyasında kullanılan güncel teknolojileri, yazılım geliştirme çatılarını projelere dahil ederek öğretmek.
